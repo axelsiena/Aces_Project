@@ -1,0 +1,8 @@
+$primary: #00bda7; 
+$bg-body-primary: #00bda7;
+
+@import '../node_modules/bootstrap/scss/_functions.scss';
+@import '../node_modules/bootstrap/scss/_variables.scss';
+@import '../node_modules/bootstrap/scss/_variables-dark.scss';
+// import every bootstrap file
+@import '../node_modules/bootstrap/scss/bootstrap';
